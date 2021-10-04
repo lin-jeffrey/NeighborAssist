@@ -1,0 +1,6 @@
+framework module Pods_neighborAid {
+  umbrella header "Pods-neighborAid-umbrella.h"
+
+  export *
+  module * { export * }
+}

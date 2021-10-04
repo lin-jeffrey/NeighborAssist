@@ -1,0 +1,6 @@
+framework module Pods_neighborAid_neighborAidUITests {
+  umbrella header "Pods-neighborAid-neighborAidUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
